@@ -120,7 +120,7 @@ MonoBehaviour:
     uid: 15157cf5-eb21-4744-8071-ced920c82b3e
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":61.0,"y":86.0,"width":168.0,"height":100.0}}'
   viewTransform:
-    position: {x: -38.666668, y: 104}
-    scale: 0.57175326
+    position: {x: 38, y: 46.5}
+    scale: 0.7561437
   version: 1.0.0
   showAssembly: 0
